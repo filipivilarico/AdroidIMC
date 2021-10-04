@@ -9,6 +9,6 @@
     <string name="Login_lembrar_me">Lembrar-me</string>
     <string name="Login_esqueci">Esqueci a senha</string>
     <string name="Login_tenho_uma_conta">Não tenho uma conta</string>
-    <string name="Login_tem_uma_conta">Não tem uma conta</string>
+    <string name="Login_tem_uma_conta">Não tem uma conta?</string>
     <string name="Login_criar_conta">criar conta</string>
 </resources>
